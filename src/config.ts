@@ -1,1 +1,1 @@
-export const BACKEND_URL = "web-genie-ai-backend.vercel.app"
+export const BACKEND_URL = "https://web-genie-ai-backend.vercel.app";
